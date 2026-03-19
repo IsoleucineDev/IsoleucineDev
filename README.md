@@ -1,106 +1,94 @@
-```
- _____ _                          _____            _        ____          _   _ _ _       
-|_   _| | ___  __ _ _ __   __ _ |_   _|_ _ _ __ (_) __ _ / ___|__ _ ___| |_(_) | | ___  
-  | | | |/ _ \/ _` | '_ \ / _` |  | |/ _` | '_ \| |/ _` | |   / _` / __| __| | | |/ _ \ 
-  | | | |  __/ (_| | | | | (_| |  | | (_| | |_) | | (_| | |__| (_| \__ \ |_| | | | (_) |
-  |_| |_|\___|\__,_|_| |_|\__,_|  |_|\__,_| .__/|_|\__,_|\____\__,_|___/\__|_|_|_|\___/ 
-                                           |_|                                             
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+
+<div align="center">
+  <h1>ileana tapia castillo</h1>
+  <p><code>computer engineering · tec de monterrey toluca · 4th sem</code></p>
+  <p>
+    <img src="https://img.shields.io/badge/building-Sistema%20AURORA-2c5364?style=flat-square&labelColor=0f2027"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/team-Estudiambres-203a43?style=flat-square&labelColor=0f2027"/>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=a01773374&style=flat-square&color=2c5364&labelColor=0f2027&label=visits"/>
+  </p>
+</div>
+
+<br/>
+
+```python
+class Ileana:
+    focus    = ["parallel computing", "biomedical software", "IoT", "AI pipelines"]
+    now      = "building a predictive SaMD for BioHack CCM 2026"
+    stack    = ["Flutter", "Django", "Supabase", "Gemini AI", "LSTM"]
+    certs    = ["Oracle Java Programming", "Oracle Java Foundations"]
+    campus   = "Toluca, EDOMEX"
 ```
 
-**`> Computer Engineering @ Tec de Monterrey, Campus Toluca`**  
-**`> 4th semester | Toluca, EDOMEX`**
+<br/>
 
 ---
 
-## `[ LANGUAGES ]`
+### languages & tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
 
-## `[ FRAMEWORKS & LIBRARIES ]`
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=f0a500)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=f0a500)
+![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=f0a500)
+![Kotlin](https://img.shields.io/badge/Kotlin-1a1a2e?style=flat-square&logo=kotlin&logoColor=f0a500)
+![Dart](https://img.shields.io/badge/Dart-1a1a2e?style=flat-square&logo=dart&logoColor=f0a500)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=f0a500)
+![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=f0a500)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-16213e?style=flat-square&logo=flutter&logoColor=a8dadc)
+![Django](https://img.shields.io/badge/Django-16213e?style=flat-square&logo=django&logoColor=a8dadc)
+![React](https://img.shields.io/badge/React-16213e?style=flat-square&logo=react&logoColor=a8dadc)
+![Laravel](https://img.shields.io/badge/Laravel-16213e?style=flat-square&logo=laravel&logoColor=a8dadc)
+![Supabase](https://img.shields.io/badge/Supabase-16213e?style=flat-square&logo=supabase&logoColor=a8dadc)
+![Arduino](https://img.shields.io/badge/Arduino-16213e?style=flat-square&logo=arduino&logoColor=a8dadc)
 
-## `[ AI / DATA ]`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f3460?style=flat-square&logo=postgresql&logoColor=e94560)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f3460?style=flat-square&logo=mongodb&logoColor=e94560)
+![Linux](https://img.shields.io/badge/Linux-0f3460?style=flat-square&logo=linux&logoColor=e94560)
+![Git](https://img.shields.io/badge/Git-0f3460?style=flat-square&logo=git&logoColor=e94560)
+![Docker](https://img.shields.io/badge/Docker-0f3460?style=flat-square&logo=docker&logoColor=e94560)
 
-![Keras](https://img.shields.io/badge/LSTM-D00000?style=flat-square&logo=keras&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+</div>
 
-## `[ DATABASES ]`
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-
-## `[ TOOLS & PLATFORMS ]`
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+<br/>
 
 ---
 
-## `[ PROJECTS ]`
+### stats
 
-```
-+----------------------------------------------------------+
-|  SISTEMA AURORA                          [BIOHACK CCM 26]|
-|  Predictive monitoring SaMD                              |
-|  Stack: Flutter > Django > Supabase > LSTM > Gemini AI   |
-|  Team: Estudiambres                                      |
-+----------------------------------------------------------+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=a01773374&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a8dadc&icon_color=f0a500&text_color=8b8fa8&ring_color=a8dadc&hide=contribs"/>
+  &nbsp;
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a01773374&layout=compact&hide_border=true&bg_color=0d1117&title_color=a8dadc&text_color=8b8fa8&langs_count=6"/>
+</div>
 
-+----------------------------------------------------------+
-|  PD03 -- PROVENANCE GRAPH ANALYSIS      [3rd @ ITESM]   |
-|  Provenance graphs for parallel programming analysis     |
-|  Stack: Python > Graph Algorithms                        |
-+----------------------------------------------------------+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a01773374&hide_border=true&background=0d1117&ring=a8dadc&fire=f0a500&currStreakLabel=a8dadc&sideLabels=8b8fa8&dates=8b8fa8&stroke=1a1a2e"/>
+</div>
 
-+----------------------------------------------------------+
-|  WATER FLOW MONITOR (ANDROID + ARDUINO)                  |
-|  Real-time BLE water flow monitoring                     |
-|  Stack: Kotlin > Android > Arduino > BLE                 |
-+----------------------------------------------------------+
-
-+----------------------------------------------------------+
-|  CAT API DASHBOARD                                       |
-|  Full-stack multi-API integration with AI chat           |
-|  Stack: Django > React > Gemini AI                       |
-+----------------------------------------------------------+
-```
+<br/>
 
 ---
 
-## `[ CERTIFICATIONS ]`
+### projects
 
-```
-[+] Oracle Academy -- Java Programming   // Dec 2025
-[+] Oracle Academy -- Java Foundations   // Sep 2025
-```
+| | project | stack | highlight |
+|--|---------|-------|-----------|
+| 🩺 | **Sistema AURORA** — predictive monitoring SaMD | Flutter · Django · LSTM · Gemini AI | BioHack CCM 2026 |
+| 🔗 | **PD03** — provenance graph analyzer | Python · parallel computing | 🥉 3rd place Ingenierías ITESM |
+| 💧 | **Water Flow Monitor** — BLE sensor app | Kotlin · Android · Arduino | real-time serial data |
+| 🐱 | **Cat API Dashboard** — multi-API web app | Django · React · Gemini AI | glassmorphism UI |
 
----
-
-## `[ FOCUS AREAS ]`
-
-```
->> Parallel Programming & Algorithms
->> Data Structures (Trees, Graphs, Queues)
->> Systems Development (Backend, IoT, Mobile)
->> Biomedical Software (SaMD, Sensor Pipelines)
-```
+<br/>
 
 ---
 
-> `status: open to collabs & hackathons`  
-> `location: Toluca, EDOMEX, MX`
+<div align="center">
+  <sub>open to collabs · hackathons · interesting problems</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%"/>
