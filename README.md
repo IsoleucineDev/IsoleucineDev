@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/team-Estudiambres-203a43?style=flat-square&labelColor=0f2027"/>
     &nbsp;
     <img src="https://komarev.com/ghpvc/?username=a01773374&style=flat-square&color=2c5364&labelColor=0f2027&label=visits"/>
-  </p>
+  </
 </div>
 
 <br/>
