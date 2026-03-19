@@ -8,7 +8,7 @@
     &nbsp;
     <img src="https://img.shields.io/badge/team-Estudiambres-203a43?style=flat-square&labelColor=0f2027"/>
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=a01773374&style=flat-square&color=2c5364&labelColor=0f2027&label=visits"/>
+    <img src="https://komarev.com/ghpvc/?username=IsoleucineDev&style=flat-square&color=2c5364&labelColor=0f2027&label=visits"/>
   </
 </div>
 
@@ -61,13 +61,13 @@ class Ileana:
 ### stats
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=a01773374&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a8dadc&icon_color=f0a500&text_color=8b8fa8&ring_color=a8dadc&hide=contribs"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=IsoleucineDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a8dadc&icon_color=f0a500&text_color=8b8fa8&ring_color=a8dadc&hide=contribs"/>
   &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a01773374&layout=compact&hide_border=true&bg_color=0d1117&title_color=a8dadc&text_color=8b8fa8&langs_count=6"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsoleucineDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=a8dadc&text_color=8b8fa8&langs_count=6"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a01773374&hide_border=true&background=0d1117&ring=a8dadc&fire=f0a500&currStreakLabel=a8dadc&sideLabels=8b8fa8&dates=8b8fa8&stroke=1a1a2e"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsoleucineDev&hide_border=true&background=0d1117&ring=a8dadc&fire=f0a500&currStreakLabel=a8dadc&sideLabels=8b8fa8&dates=8b8fa8&stroke=1a1a2e"/>
 </div>
 
 <br/>
