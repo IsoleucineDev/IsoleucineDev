@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0a2e,100:0d1f2d&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 <div align="center">
   <h1>ileana tapia castillo</h1>
   <p><code>computer engineering · tec de monterrey toluca · 4th sem</code></p>
   <p>
-    <img src="https://img.shields.io/badge/building-Sistema%20AURORA-2c5364?style=flat-square&labelColor=0f2027"/>
+    <img src="https://img.shields.io/badge/building-Sistema%20AURORA-ff2d78?style=flat-square&labelColor=0d0d1a"/>
     &nbsp;
-    <img src="https://img.shields.io/badge/team-Estudiambres-203a43?style=flat-square&labelColor=0f2027"/>
+    <img src="https://img.shields.io/badge/team-Estudiambres-00c9b1?style=flat-square&labelColor=0d0d1a"/>
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=IsoleucineDev&style=flat-square&color=2c5364&labelColor=0f2027&label=visits"/>
-  </
+    <img src="https://komarev.com/ghpvc/?username=IsoleucineDev&style=flat-square&color=ff2d78&labelColor=0d0d1a&label=visits"/>
+  </p>
 </div>
 
 <br/>
@@ -31,26 +31,30 @@ class Ileana:
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=f0a500)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=f0a500)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=f0a500)
-![Kotlin](https://img.shields.io/badge/Kotlin-1a1a2e?style=flat-square&logo=kotlin&logoColor=f0a500)
-![Dart](https://img.shields.io/badge/Dart-1a1a2e?style=flat-square&logo=dart&logoColor=f0a500)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=f0a500)
-![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=f0a500)
+![Java](https://img.shields.io/badge/Java-0d0d1a?style=flat-square&logo=openjdk&logoColor=ff2d78)
+![Python](https://img.shields.io/badge/Python-0d0d1a?style=flat-square&logo=python&logoColor=ff2d78)
+![C++](https://img.shields.io/badge/C++-0d0d1a?style=flat-square&logo=cplusplus&logoColor=ff2d78)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d0d1a?style=flat-square&logo=kotlin&logoColor=ff2d78)
+![Dart](https://img.shields.io/badge/Dart-0d0d1a?style=flat-square&logo=dart&logoColor=ff2d78)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=flat-square&logo=javascript&logoColor=ff2d78)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d1a?style=flat-square&logo=typescript&logoColor=ff2d78)
+![SQL](https://img.shields.io/badge/SQL-0d0d1a?style=flat-square&logo=postgresql&logoColor=ff2d78)
 
-![Flutter](https://img.shields.io/badge/Flutter-16213e?style=flat-square&logo=flutter&logoColor=a8dadc)
-![Django](https://img.shields.io/badge/Django-16213e?style=flat-square&logo=django&logoColor=a8dadc)
-![React](https://img.shields.io/badge/React-16213e?style=flat-square&logo=react&logoColor=a8dadc)
-![Laravel](https://img.shields.io/badge/Laravel-16213e?style=flat-square&logo=laravel&logoColor=a8dadc)
-![Supabase](https://img.shields.io/badge/Supabase-16213e?style=flat-square&logo=supabase&logoColor=a8dadc)
-![Arduino](https://img.shields.io/badge/Arduino-16213e?style=flat-square&logo=arduino&logoColor=a8dadc)
+![Flutter](https://img.shields.io/badge/Flutter-1a0a2e?style=flat-square&logo=flutter&logoColor=00c9b1)
+![Django](https://img.shields.io/badge/Django-1a0a2e?style=flat-square&logo=django&logoColor=00c9b1)
+![React](https://img.shields.io/badge/React-1a0a2e?style=flat-square&logo=react&logoColor=00c9b1)
+![Next.js](https://img.shields.io/badge/Next.js-1a0a2e?style=flat-square&logo=nextdotjs&logoColor=00c9b1)
+![Vue 3](https://img.shields.io/badge/Vue%203-1a0a2e?style=flat-square&logo=vuedotjs&logoColor=00c9b1)
+![Laravel](https://img.shields.io/badge/Laravel-1a0a2e?style=flat-square&logo=laravel&logoColor=00c9b1)
+![Supabase](https://img.shields.io/badge/Supabase-1a0a2e?style=flat-square&logo=supabase&logoColor=00c9b1)
+![Arduino](https://img.shields.io/badge/Arduino-1a0a2e?style=flat-square&logo=arduino&logoColor=00c9b1)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f3460?style=flat-square&logo=postgresql&logoColor=e94560)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f3460?style=flat-square&logo=mongodb&logoColor=e94560)
-![Linux](https://img.shields.io/badge/Linux-0f3460?style=flat-square&logo=linux&logoColor=e94560)
-![Git](https://img.shields.io/badge/Git-0f3460?style=flat-square&logo=git&logoColor=e94560)
-![Docker](https://img.shields.io/badge/Docker-0f3460?style=flat-square&logo=docker&logoColor=e94560)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1f2d?style=flat-square&logo=postgresql&logoColor=ff2d78)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1f2d?style=flat-square&logo=mongodb&logoColor=ff2d78)
+![Linux](https://img.shields.io/badge/Linux-0d1f2d?style=flat-square&logo=linux&logoColor=ff2d78)
+![Git](https://img.shields.io/badge/Git-0d1f2d?style=flat-square&logo=git&logoColor=ff2d78)
+![Docker](https://img.shields.io/badge/Docker-0d1f2d?style=flat-square&logo=docker&logoColor=ff2d78)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1f2d?style=flat-square&logo=tailwindcss&logoColor=ff2d78)
 
 </div>
 
@@ -61,13 +65,13 @@ class Ileana:
 ### stats
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=IsoleucineDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a8dadc&icon_color=f0a500&text_color=8b8fa8&ring_color=a8dadc&hide=contribs"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=IsoleucineDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00c9b1&icon_color=ff2d78&text_color=8b8fa8&ring_color=00c9b1&hide=contribs"/>
   &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsoleucineDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=a8dadc&text_color=8b8fa8&langs_count=6"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsoleucineDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=00c9b1&text_color=8b8fa8&langs_count=6"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsoleucineDev&hide_border=true&background=0d1117&ring=a8dadc&fire=f0a500&currStreakLabel=a8dadc&sideLabels=8b8fa8&dates=8b8fa8&stroke=1a1a2e"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsoleucineDev&hide_border=true&background=0d1117&ring=00c9b1&fire=ff2d78&currStreakLabel=00c9b1&sideLabels=8b8fa8&dates=8b8fa8&stroke=1a0a2e"/>
 </div>
 
 <br/>
@@ -79,9 +83,9 @@ class Ileana:
 | | project | stack | highlight |
 |--|---------|-------|-----------|
 | 🩺 | **Sistema AURORA** — predictive monitoring SaMD | Flutter · Django · LSTM · Gemini AI | BioHack CCM 2026 |
-| 🔗 | **PD03** — provenance graph analyzer | Python · parallel computing | 🥉 3rd place Ingenierías ITESM |
-| 💧 | **Water Flow Monitor** — BLE sensor app | Kotlin · Android · Arduino | real-time serial data |
-| 🐱 | **Cat API Dashboard** — multi-API web app | Django · React · Gemini AI | glassmorphism UI |
+| 💬 | **HoshiChat** — real-time chat app | Vue 3 · Laravel Echo · WebSockets · Vite | broadcasting <100ms |
+| 🚗 | **CESVI México** — accident reconstruction platform | React.js · Laravel · PHP · Scrum | agile data management |
+| 🎵 | **IngenierO Espacial Portfolio** — musical portfolio | Next.js 15 · React 19 · Turbopack · Tailwind CSS | fluid animations + SoundCloud |
 
 <br/>
 
@@ -91,4 +95,4 @@ class Ileana:
   <sub>open to collabs · hackathons · interesting problems</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f2d,50:1a0a2e,100:0d0d1a&height=80&section=footer" width="100%"/>
