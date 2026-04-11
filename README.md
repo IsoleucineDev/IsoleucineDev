@@ -63,14 +63,16 @@ class Ileana:
 ---
 
 ### stats
+
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=IsoleucineDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00c9b1&icon_color=ff2d78&text_color=8b8fa8&ring_color=00c9b1&hide=contribs"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=IsoleucineDev&show_icons=true&theme=radical&hide_border=true&hide=contribs"/>
   &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsoleucineDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=00c9b1&text_color=8b8fa8&langs_count=6"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsoleucineDev&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=IsoleucineDev&hide_border=true&background=0d1117&ring=00c9b1&fire=ff2d78&currStreakLabel=00c9b1&sideLabels=8b8fa8&dates=8b8fa8&stroke=1a0a2e"/>
+  <img src="https://streak-stats.demolab.com/?user=IsoleucineDev&hide_border=true&theme=radical"/>
 </div>
+
 <br/>
 
 ---
