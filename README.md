@@ -65,11 +65,6 @@ class Ileana:
 ### stats
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=IsoleucineDev&show_icons=true&theme=radical&hide_border=true&hide=contribs"/>
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsoleucineDev&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
-</div>
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=IsoleucineDev&hide_border=true&theme=radical"/>
 </div>
 
