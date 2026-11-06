@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/building-Sistema%20AURORA-39ff14?style=for-the-badge&labelColor=1a0b33"/>
+<img src="https://img.shields.io/badge/open%20to-internships%20%26%20hackathons-39ff14?style=for-the-badge&labelColor=1a0b33"/>
 &nbsp;
 <img src="https://img.shields.io/badge/team-Estudiambres-9d4edd?style=for-the-badge&labelColor=1a0b33"/>
 
@@ -16,29 +16,25 @@
 
 ```python
 class Ileana(Pilot):
-    unit        = "EVA-01"
-    status      = "ONLINE"
-    sync_rate   = "400%"
+    unit      = "EVA-01"
+    status    = "ONLINE"
+    sync_rate = "400%"
 
-    campus      = "Tecnológico de Monterrey · Toluca · 4th Semester"
-    major       = "Computer Technologies Engineering"
+    campus = "Tecnológico de Monterrey · Toluca · 4th Semester"
+    major  = "Computer Technologies Engineering"
 
     focus = [
         "full-stack development",
         "biomedical software",
+        "IoT",
         "AI pipelines",
         "networks & cybersecurity",
-        "space outreach",
     ]
 
-    currently_building = (
-        "Predictive Software as a Medical Device (SaMD) "
-        "for BioHack CCM 2026"
-    )
-
-    certifications = [
-        "Oracle Academy · Java",
-        "Cisco Networking Academy · CCNA & Ethical Hacker",
+    open_to = [
+        "engineering internships",
+        "hackathons",
+        "high-impact software development",
     ]
 ```
 
@@ -81,30 +77,15 @@ class Ileana(Pilot):
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `> ACTIVE_OPERATIONS.db`
+## `> TROPHY_ROOM.dat`
 
----
-
-### 📡 Mesh Cure · 🥉 3rd place, Hack Nation 2026 (regional, Tec Toluca)
-Solution built around a **Small AI**, with a **React Native** and **React JS** stack.
-
----
-
-### 🏙️ UrbanMind X · 🥇 1st place, Expo Ingenierías FJ2026 (Tec Toluca, Jun 2026)
-Digital prototype for the Expo Ingenierías. Built the **Python backend**.
-
-
-### 🚗 CESVI México · Socioformador challenge
-Web system for **traffic accident reconstruction**.
-
-- **Stack:** React, Laravel, Keycloak
-- **Method:** McHenry deformation method
-- **Team:** rotating **Scrum Master** in a team of 13
-
----
-
-### 🌊 SEMAR · Sargassum & Spills challenge
-**Backend lead (Python)** of a trajectory forecasting system for hydrocarbon spills in Campeche, designed to plug in as a module of SEMAR's existing system.
+| | Project | Event | What I did |
+|:-:|---------|-------|------------|
+| 🥇 | **UrbanMind X** | Expo Ingenierías FJ2026 · Tec Toluca · Jun 2026 | Digital prototype · **Python backend** |
+| 🥉 | **Mesh Cure** | Hack Nation 2026 · Tec Toluca (regional) | Solution built with a **Small AI** · React Native + React JS |
+| 🥉 | **Parallel programming** | Expo Ingenierías 2025 · Tec Toluca | Digital prototype with precedence graphs |
+| 🥉 | **Una Pantera en el Cielo** | 2025 | Rockets |
+| 🥉 | **Minisumo Autónomo** | OLCyT 2024 | Autonomous mini-sumo robot |
 
 <img src="./assets/divider.svg" width="100%"/>
 
@@ -114,31 +95,16 @@ Web system for **traffic accident reconstruction**.
 - **Freelance Frontend Developer · IsoleucineDev:** animated portfolios, landing pages, custom interfaces, audio and video integrations.
 - **Civic Education Tutor · JANN (social service):** interactive materials about Mexican democracy.
 
-**🔭 Science outreach**
-- Member of **AAVAT** (Astronomical Association of Valle de Toluca) and **SINAPSIS**, the Tec Toluca science outreach student group.
-- **Speaker:** *Margaret Hamilton and the code that took us to space* (World Space Week 2026) · *The Interplanetary Internet* (Centro Cultural Mexiquense, Aug 2026, ~45 attendees) · *Why do things float in space?* (World Space Week 2025).
-- **Workshops:** water rockets at La Noche de las Estrellas (2024, 2025) and Space Network with ESP32 (2026).
-- Author of a chapter in the book *Ecos del Universo* (AAVAT, in publication).
-
 **🎓 Certifications**
-- **Oracle Academy:** Java Foundations (Sep 2025) · Java Fundamentals (Nov 2025) · Java Programming (Dec 2025)
-- **Cisco Networking Academy:** CCNA Intro to Networks (Jun 2026) · Intro to Cybersecurity (Jul 2026) · Ethical Hacker (Jul 2026)
+- **Oracle Academy:** Java Foundations · Java Fundamentals · Java Programming
+- **Cisco Networking Academy:** CCNA Intro to Networks · Intro to Cybersecurity · Ethical Hacker
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `> TROPHY_ROOM.dat`
-
-| Year | Place | Event |
-|------|-------|-------|
-| 2026 | 🥇 1st | Prototipo Digital · Expo Ingenierías FJ2026 · UrbanMind X |
-| 2026 | 🥉 3rd | Hack Nation 2026 · Campus Toluca, regional · Mesh Cure |
-| 2025 | 🥇 1st | BioHack 2025 · AURORA |
-| 2025 | 🥉 3rd | Prototipo Digital · Expo Ingenierías 2025 · parallel programming with precedence graphs |
-| 2025 | 🥉 3rd | "Una Pantera en el Cielo" 2025 · rockets |
-| 2024 | 🥉 3rd | OLCyT 2024 · Minisumo Autónomo |
-
-<img src="./assets/divider.svg" width="100%"/>
+## `> CONTRIBUTION_SNAKE.gif`
 
 <div align="center">
-<sub>open to engineering internships • hackathons • high-impact software development</sub>
+
+<img src="https://raw.githubusercontent.com/IsoleucineDev/IsoleucineDev/output/github-snake-dark.svg" width="100%" alt="contribution snake"/>
+
 </div>
