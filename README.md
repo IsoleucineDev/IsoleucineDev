@@ -83,24 +83,16 @@ class Ileana(Pilot):
 
 ## `> ACTIVE_OPERATIONS.db`
 
-### 🩺 AURORA · 🥇 1st place, BioHack 2025 (Biomechanics)
-Predictive device that alerts patients with spinal cord injury *before* an autonomic dysreflexia episode.
-
-- **AI:** LSTM model + Gemini AI
-- **Backend:** Supabase, 5-layer security architecture
-- **Domain:** biomedical software, Software as a Medical Device (SaMD)
-
----
-
-### 🏙️ UrbanMind X · 🥇 1st place, Expo Ingenierías FJ2026 (Tec Toluca, Jun 2026)
-Digital prototype for the Expo Ingenierías. Built the **Python backend**.
-
 ---
 
 ### 📡 Mesh Cure · 🥉 3rd place, Hack Nation 2026 (regional, Tec Toluca)
 Solution built around a **Small AI**, with a **React Native** and **React JS** stack.
 
 ---
+
+### 🏙️ UrbanMind X · 🥇 1st place, Expo Ingenierías FJ2026 (Tec Toluca, Jun 2026)
+Digital prototype for the Expo Ingenierías. Built the **Python backend**.
+
 
 ### 🚗 CESVI México · Socioformador challenge
 Web system for **traffic accident reconstruction**.
