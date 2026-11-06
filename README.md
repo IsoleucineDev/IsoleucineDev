@@ -2,15 +2,11 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Ileana Tapia Castillo · EVA-01 banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=760&height=40&lines=%3E+initializing+UNIT-01...;%3E+building+Sistema+AURORA+%F0%9F%A9%BA;%3E+full-stack+%C2%B7+biomedical+%C2%B7+IoT+%C2%B7+AI;%3E+open+to+internships+%26+hackathons;%3E+sync+rate%3A+400%25" alt="typing animation"/>
-
 <br>
 
 <img src="https://img.shields.io/badge/building-Sistema%20AURORA-39ff14?style=for-the-badge&labelColor=1a0b33"/>
 &nbsp;
 <img src="https://img.shields.io/badge/team-Estudiambres-9d4edd?style=for-the-badge&labelColor=1a0b33"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=IsoleucineDev&style=for-the-badge&color=7b2cbf&labelColor=1a0b33&label=PILOT+VIEWS"/>
 
 </div>
 
@@ -30,8 +26,9 @@ class Ileana(Pilot):
     focus = [
         "full-stack development",
         "biomedical software",
-        "IoT",
         "AI pipelines",
+        "networks & cybersecurity",
+        "space outreach",
     ]
 
     currently_building = (
@@ -39,14 +36,9 @@ class Ileana(Pilot):
         "for BioHack CCM 2026"
     )
 
-    tech_stack = [
-        "Flutter", "React", "Next.js", "Django",
-        "Laravel", "Supabase", "PostgreSQL",
-    ]
-
     certifications = [
-        "Oracle Java Programming",
-        "Oracle Java Foundations",
+        "Oracle Academy · Java",
+        "Cisco Networking Academy · CCNA & Ethical Hacker",
     ]
 ```
 
@@ -66,16 +58,20 @@ class Ileana(Pilot):
 ![SQL](https://img.shields.io/badge/SQL-0a0612?style=flat-square&logo=postgresql&logoColor=39ff14)
 
 ![Flutter](https://img.shields.io/badge/Flutter-1a0b33?style=flat-square&logo=flutter&logoColor=b44cff)
-![Django](https://img.shields.io/badge/Django-1a0b33?style=flat-square&logo=django&logoColor=b44cff)
 ![React](https://img.shields.io/badge/React-1a0b33?style=flat-square&logo=react&logoColor=b44cff)
+![React Native](https://img.shields.io/badge/React%20Native-1a0b33?style=flat-square&logo=react&logoColor=b44cff)
 ![Next.js](https://img.shields.io/badge/Next.js-1a0b33?style=flat-square&logo=nextdotjs&logoColor=b44cff)
 ![Vue 3](https://img.shields.io/badge/Vue%203-1a0b33?style=flat-square&logo=vuedotjs&logoColor=b44cff)
+![Django](https://img.shields.io/badge/Django-1a0b33?style=flat-square&logo=django&logoColor=b44cff)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a0b33?style=flat-square&logo=fastapi&logoColor=b44cff)
 ![Laravel](https://img.shields.io/badge/Laravel-1a0b33?style=flat-square&logo=laravel&logoColor=b44cff)
 ![Supabase](https://img.shields.io/badge/Supabase-1a0b33?style=flat-square&logo=supabase&logoColor=b44cff)
 ![Arduino](https://img.shields.io/badge/Arduino-1a0b33?style=flat-square&logo=arduino&logoColor=b44cff)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0612?style=flat-square&logo=postgresql&logoColor=39ff14)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0a0612?style=flat-square&logo=mongodb&logoColor=39ff14)
+![Keycloak](https://img.shields.io/badge/Keycloak-0a0612?style=flat-square&logo=keycloak&logoColor=39ff14)
+![Cisco](https://img.shields.io/badge/Cisco%20CCNA-0a0612?style=flat-square&logo=cisco&logoColor=39ff14)
 ![Linux](https://img.shields.io/badge/Linux-0a0612?style=flat-square&logo=linux&logoColor=39ff14)
 ![Git](https://img.shields.io/badge/Git-0a0612?style=flat-square&logo=git&logoColor=39ff14)
 ![Docker](https://img.shields.io/badge/Docker-0a0612?style=flat-square&logo=docker&logoColor=39ff14)
@@ -85,46 +81,72 @@ class Ileana(Pilot):
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `> COMBAT_STATS.log`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IsoleucineDev&show_icons=true&hide_border=true&bg_color=0a0612&title_color=39ff14&icon_color=9d4edd&text_color=d9c8ff&ring_color=39ff14"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsoleucineDev&layout=compact&hide_border=true&bg_color=0a0612&title_color=39ff14&text_color=d9c8ff"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=IsoleucineDev&hide_border=true&background=0a0612&ring=9d4edd&fire=39ff14&currStreakNum=39ff14&currStreakLabel=39ff14&sideNums=b44cff&sideLabels=9d4edd&dates=8a7fb0&stroke=7b2cbf"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsoleucineDev&bg_color=0a0612&color=39ff14&line=9d4edd&point=39ff14&area=true&area_color=7b2cbf&hide_border=true&radius=10"/>
-
-<br><br>
-
-<!-- Needs the snake.yml workflow (see .github/workflows/snake.yml) -->
-<img src="https://raw.githubusercontent.com/IsoleucineDev/IsoleucineDev/output/github-snake-dark.svg" width="100%"/>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%"/>
-
 ## `> ACTIVE_OPERATIONS.db`
 
-| Project | Tech Stack | Impact |
-|-----------|------------|--------|
-| 🩺 **Sistema AURORA** | Flutter · Django · LSTM · Gemini AI | Predictive Software as a Medical Device (SaMD) developed for **BioHack CCM 2026**, integrating machine learning pipelines for real-time patient monitoring. |
-| 🚗 **CESVI México Platform** | React · Laravel · PostgreSQL | Designed scalable dashboards and normalized database structures for professional traffic accident reconstruction workflows. |
-| 🚛 **Hagamos Composta Dashboard** | Vue 3 · Lumen · Supabase | Built an operations dashboard for logistics, route management and real-time circular economy tracking. |
-| 🎵 **IngenierO Espacial Portfolio** | Next.js 15 · React 19 · Tailwind CSS | Developed a high-performance portfolio with optimized rendering, smooth animations and third-party music streaming integration. |
+### 🩺 AURORA · 🥇 1st place, BioHack 2025 (Biomechanics)
+Predictive device that alerts patients with spinal cord injury *before* an autonomic dysreflexia episode.
+
+- **AI:** LSTM model + Gemini AI
+- **Backend:** Supabase, 5-layer security architecture
+- **Domain:** biomedical software, Software as a Medical Device (SaMD)
+
+---
+
+### 🏙️ UrbanMind X · 🥇 1st place, Expo Ingenierías FJ2026 (Tec Toluca, Jun 2026)
+Digital prototype for the Expo Ingenierías. Built the **Python backend**.
+
+---
+
+### 📡 Mesh Cure · 🥉 3rd place, Hack Nation 2026 (regional, Tec Toluca)
+Solution built around a **Small AI**, with a **React Native** and **React JS** stack.
+
+---
+
+### 🚗 CESVI México · Socioformador challenge
+Web system for **traffic accident reconstruction**.
+
+- **Stack:** React, Laravel, Keycloak
+- **Method:** McHenry deformation method
+- **Team:** rotating **Scrum Master** in a team of 13
+
+---
+
+### 🌊 SEMAR · Sargassum & Spills challenge
+**Backend lead (Python)** of a trajectory forecasting system for hydrocarbon spills in Campeche, designed to plug in as a module of SEMAR's existing system.
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## `> MISSION_LOG.txt`
+
+**💼 Experience**
+- **Freelance Frontend Developer · IsoleucineDev:** animated portfolios, landing pages, custom interfaces, audio and video integrations.
+- **Civic Education Tutor · JANN (social service):** interactive materials about Mexican democracy.
+
+**🔭 Science outreach**
+- Member of **AAVAT** (Astronomical Association of Valle de Toluca) and **SINAPSIS**, the Tec Toluca science outreach student group.
+- **Speaker:** *Margaret Hamilton and the code that took us to space* (World Space Week 2026) · *The Interplanetary Internet* (Centro Cultural Mexiquense, Aug 2026, ~45 attendees) · *Why do things float in space?* (World Space Week 2025).
+- **Workshops:** water rockets at La Noche de las Estrellas (2024, 2025) and Space Network with ESP32 (2026).
+- Author of a chapter in the book *Ecos del Universo* (AAVAT, in publication).
+
+**🎓 Certifications**
+- **Oracle Academy:** Java Foundations (Sep 2025) · Java Fundamentals (Nov 2025) · Java Programming (Dec 2025)
+- **Cisco Networking Academy:** CCNA Intro to Networks (Jun 2026) · Intro to Cybersecurity (Jul 2026) · Ethical Hacker (Jul 2026)
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## `> TROPHY_ROOM.dat`
+
+| Year | Place | Event |
+|------|-------|-------|
+| 2026 | 🥇 1st | Prototipo Digital · Expo Ingenierías FJ2026 · UrbanMind X |
+| 2026 | 🥉 3rd | Hack Nation 2026 · Campus Toluca, regional · Mesh Cure |
+| 2025 | 🥇 1st | BioHack 2025 · AURORA |
+| 2025 | 🥉 3rd | Prototipo Digital · Expo Ingenierías 2025 · parallel programming with precedence graphs |
+| 2025 | 🥉 3rd | "Una Pantera en el Cielo" 2025 · rockets |
+| 2024 | 🥉 3rd | OLCyT 2024 · Minisumo Autónomo |
 
 <img src="./assets/divider.svg" width="100%"/>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=B44CFF&center=true&vCenter=true&width=620&height=30&lines=open+to+engineering+internships;open+to+hackathons;open+to+high-impact+software+development" alt="open to"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b33,50:7b2cbf,100:39ff14&height=100&section=footer&animation=twinkling"/>
-
+<sub>open to engineering internships • hackathons • high-impact software development</sub>
 </div>
