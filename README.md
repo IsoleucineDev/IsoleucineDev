@@ -2,13 +2,15 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Ileana Tapia Castillo · EVA-01 banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=760&height=40&lines=%3E+initializing+UNIT-01...;%3E+building+Sistema+AURORA;%3E+full-stack+%C2%B7+biomedical+%C2%B7+IoT+%C2%B7+AI;%3E+open+to+internships+%26+hackathons" alt="typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=760&height=40&lines=%3E+initializing+UNIT-01...;%3E+building+Sistema+AURORA+%F0%9F%A9%BA;%3E+full-stack+%C2%B7+biomedical+%C2%B7+IoT+%C2%B7+AI;%3E+open+to+internships+%26+hackathons;%3E+sync+rate%3A+400%25" alt="typing animation"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/building-Sistema%20AURORA-39ff14?style=for-the-badge&labelColor=1a0b33"/>
 &nbsp;
 <img src="https://img.shields.io/badge/team-Estudiambres-9d4edd?style=for-the-badge&labelColor=1a0b33"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=IsoleucineDev&style=for-the-badge&color=7b2cbf&labelColor=1a0b33&label=PILOT+VIEWS"/>
 
 </div>
 
@@ -36,6 +38,11 @@ class Ileana(Pilot):
         "Predictive Software as a Medical Device (SaMD) "
         "for BioHack CCM 2026"
     )
+
+    tech_stack = [
+        "Flutter", "React", "Next.js", "Django",
+        "Laravel", "Supabase", "PostgreSQL",
+    ]
 
     certifications = [
         "Oracle Java Programming",
@@ -82,7 +89,22 @@ class Ileana(Pilot):
 
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IsoleucineDev&show_icons=true&hide_border=true&bg_color=0a0612&title_color=39ff14&icon_color=9d4edd&text_color=d9c8ff&ring_color=39ff14"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsoleucineDev&layout=compact&hide_border=true&bg_color=0a0612&title_color=39ff14&text_color=d9c8ff"/>
+
+<br><br>
+
 <img src="https://streak-stats.demolab.com?user=IsoleucineDev&hide_border=true&background=0a0612&ring=9d4edd&fire=39ff14&currStreakNum=39ff14&currStreakLabel=39ff14&sideNums=b44cff&sideLabels=9d4edd&dates=8a7fb0&stroke=7b2cbf"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsoleucineDev&bg_color=0a0612&color=39ff14&line=9d4edd&point=39ff14&area=true&area_color=7b2cbf&hide_border=true&radius=10"/>
+
+<br><br>
+
+<!-- Needs the snake.yml workflow (see .github/workflows/snake.yml) -->
+<img src="https://raw.githubusercontent.com/IsoleucineDev/IsoleucineDev/output/github-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -100,5 +122,9 @@ class Ileana(Pilot):
 <img src="./assets/divider.svg" width="100%"/>
 
 <div align="center">
-<sub>open to engineering internships • hackathons • high-impact software development</sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=B44CFF&center=true&vCenter=true&width=620&height=30&lines=open+to+engineering+internships;open+to+hackathons;open+to+high-impact+software+development" alt="open to"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b33,50:7b2cbf,100:39ff14&height=100&section=footer&animation=twinkling"/>
+
 </div>
